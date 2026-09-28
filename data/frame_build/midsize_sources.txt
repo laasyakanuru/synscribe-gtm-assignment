@@ -1,0 +1,69 @@
+# Mid-size sources. Format: name|country|source_key|aliases (optional, ;-separated, "=" = strict)
+# source_key:
+#   sgx_midcap  Singapore-HQ listed companies with market cap US$0.3-10B on
+#               companiesmarketcap.com's Singapore list (fetched 2026-09-28), excluding
+#               REITs and business trusts. Covers only the ~80 Singapore-HQ companies that
+#               site tracks, not all ~600 SGX listings.
+#   ft_hg_apac  FT / Statista High-Growth Companies Asia-Pacific 2026 (500 companies).
+#               The full list is not reachable from here (FT paywall; Statista page renders
+#               by script). Only the names published in public articles are below
+#               (fintechnews.sg fintech subset, company press releases). PARTIAL.
+#               To complete it, paste the full list into ft_high_growth_apac_full.txt
+#               (same format) and re-run build_frame.py.
+BOC Aviation|Singapore|sgx_midcap|
+Genting Singapore|Singapore|sgx_midcap|
+UOL Group|Singapore|sgx_midcap|=UOL
+Seatrium|Singapore|sgx_midcap|
+Kulicke and Soffa Industries|Singapore|sgx_midcap|Kulicke & Soffa
+Sheng Siong Group|Singapore|sgx_midcap|Sheng Siong
+Venture Corporation|Singapore|sgx_midcap|Venture Corporation
+TechCreate Group|Singapore|sgx_midcap|TechCreate
+Singapore Land|Singapore|sgx_midcap|Singapore Land
+Kenon Holdings|Singapore|sgx_midcap|Kenon
+Golden Agri-Resources|Singapore|sgx_midcap|Golden Agri
+Bitdeer Technologies Group|Singapore|sgx_midcap|Bitdeer
+SIA Engineering Company|Singapore|sgx_midcap|SIA Engineering
+Haw Par|Singapore|sgx_midcap|Haw Par
+iFAST Corporation|Singapore|sgx_midcap|iFAST
+Hotel Properties Limited|Singapore|sgx_midcap|Hotel Properties
+Karooooo|Singapore|sgx_midcap|Karooooo;Cartrack
+Sinarmas Land|Singapore|sgx_midcap|Sinarmas Land
+Pacific Century Regional Developments|Singapore|sgx_midcap|Pacific Century Regional
+Riverstone Holdings|Singapore|sgx_midcap|=Riverstone
+Yanlord|Singapore|sgx_midcap|Yanlord
+Wave Life Sciences|Singapore|sgx_midcap|Wave Life Sciences
+Super Hi International|Singapore|sgx_midcap|Super Hi
+Singapore Post|Singapore|sgx_midcap|Singapore Post
+IGG Inc|Singapore|sgx_midcap|=IGG
+Penguin International|Singapore|sgx_midcap|Penguin International
+Aspire|Singapore|ft_hg_apac|=Aspire;Aspire FT
+Storepay|Singapore|ft_hg_apac|
+Syfe|Singapore|ft_hg_apac|
+CoverGo|Singapore|ft_hg_apac|
+Spark Systems|Singapore|ft_hg_apac|
+Lighthouse Canton|Singapore|ft_hg_apac|
+Funding Societies|Singapore|ft_hg_apac|Funding Societies;FS Capital
+Una Financial|Singapore|ft_hg_apac|Una Financial
+M-DAQ Global|Singapore|ft_hg_apac|M-DAQ
+Choco Up|Singapore|ft_hg_apac|
+Paragon Capital Management|Singapore|ft_hg_apac|
+Credgenics|India|ft_hg_apac|
+Juspay|India|ft_hg_apac|
+Vyapar|India|ft_hg_apac|
+Scripbox|India|ft_hg_apac|
+Angel One|India|ft_hg_apac|
+Vayana|India|ft_hg_apac|
+Bowtie Life Insurance|Hong Kong|ft_hg_apac|
+Statrys|Hong Kong|ft_hg_apac|
+HashKey Group|Hong Kong|ft_hg_apac|HashKey
+WeLab|Hong Kong|ft_hg_apac|WeLab
+Toss|South Korea|ft_hg_apac|Viva Republica;=Toss
+Wadiz|South Korea|ft_hg_apac|
+Beforepay Group|Australia|ft_hg_apac|Beforepay
+iPartners|Australia|ft_hg_apac|
+PolicyStreet|Malaysia|ft_hg_apac|
+CapBay|Malaysia|ft_hg_apac|
+Obook Holdings|Taiwan|ft_hg_apac|Obook
+Paynamics|Philippines|ft_hg_apac|
+DurianPay|Indonesia|ft_hg_apac|Durianpay
+LexxPluss|Japan|ft_hg_apac|

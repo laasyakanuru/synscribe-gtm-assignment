@@ -1,0 +1,11 @@
+# Raw ACRA download (~660 MB): recreate with `python funnel.py download`
+data/acra/*.csv
+# Too large for GitHub (57 MB) and fully rebuilt by `python funnel.py build`
+out/01_live_companies.csv
+# Old outputs kept locally only
+out/_superseded/
+# Local environment and OS files
+.venv/
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,132 @@
+# Supplement: multinationals with a known Singapore presence that are private, unlisted, or
+# below the market-cap top 1000. Written by hand (Claude, 2026-09-28) to reduce the
+# large-company bias of a market-cap list. Review before relying on it; remove any row you
+# don't want in scope. Format: name|country|aliases (optional, ;-separated)
+Deloitte|United Kingdom|Deloitte
+PwC|United Kingdom|PricewaterhouseCoopers;PwC
+EY|United Kingdom|Ernst & Young;EY
+KPMG|Netherlands|KPMG
+McKinsey & Company|United States|McKinsey
+Boston Consulting Group|United States|Boston Consulting Group
+Bain & Company|United States|Bain & Company
+Baker McKenzie|United States|Baker McKenzie
+Clifford Chance|United Kingdom|Clifford Chance
+Linklaters|United Kingdom|Linklaters
+A&O Shearman|United Kingdom|Allen & Overy;A&O Shearman
+Herbert Smith Freehills Kramer|United Kingdom|Herbert Smith Freehills
+Dentons|United States|Dentons
+Cargill|United States|Cargill
+Mars|United States|Mars Foods;Mars Wrigley;Wrigley;Royal Canin
+Ingka Group (IKEA)|Netherlands|IKEA;Ingka
+Bosch|Germany|Robert Bosch;Bosch
+Continental|Germany|Continental Automotive;Continental Tyre
+ZF Friedrichshafen|Germany|ZF Asia Pacific;ZF Friedrichshafen
+Dyson|Singapore|Dyson
+ByteDance|China|ByteDance;TikTok;Lark Technologies
+Grab Holdings|Singapore|Grab;GrabTaxi;GrabPay
+Canva|Australia|Canva
+Stripe|United States|Stripe Payments
+Airwallex|Australia|Airwallex
+Xero|New Zealand|Xero
+HubSpot|United States|HubSpot
+Zendesk|United States|Zendesk
+DocuSign|United States|DocuSign
+Dropbox|United States|Dropbox
+Qualtrics|United States|Qualtrics
+Genesys|United States|Genesys
+Freshworks|United States|Freshworks
+Zoho|India|Zoho
+Sprinklr|United States|Sprinklr
+Braze|United States|Braze
+Wise|United Kingdom|Wise Asia-Pacific;Wise Payments;TransferWise
+Revolut|United Kingdom|Revolut
+Ant Group|China|Ant International;Alipay;Ant Group
+Shein|Singapore|Shein;Roadget
+Razer|Singapore|Razer
+Rakuten|Japan|Rakuten
+Klook|Hong Kong|Klook
+Nium|Singapore|Nium
+Thunes|Singapore|Thunes
+Xendit|Indonesia|Xendit
+Ninja Van|Singapore|Ninja Logistics;Ninja Van
+Randstad|Netherlands|Randstad
+Adecco|Switzerland|Adecco
+ManpowerGroup|United States|Manpower;ManpowerGroup
+Hays|United Kingdom|Hays Specialist Recruitment
+PageGroup|United Kingdom|Michael Page;Page Personnel
+Robert Walters|United Kingdom|Robert Walters
+JLL|United States|Jones Lang LaSalle;JLL
+Cushman & Wakefield|United States|Cushman & Wakefield
+Colliers|Canada|Colliers International
+Knight Frank|United Kingdom|Knight Frank
+Savills|United Kingdom|Savills
+Gartner|United States|Gartner
+Dun & Bradstreet|United States|Dun & Bradstreet
+Bloomberg|United States|Bloomberg
+Fitch Group|United States|Fitch Ratings;Fitch Solutions
+Julius Baer|Switzerland|Julius Baer;Bank Julius Baer
+Pictet|Switzerland|Pictet
+LGT|Liechtenstein|LGT Bank;LGT Investment
+Lombard Odier|Switzerland|Lombard Odier
+Schroders|United Kingdom|Schroder Investment;Schroders
+Fidelity International|Bermuda|FIL Investment;Fidelity International
+Invesco|United States|Invesco
+Franklin Templeton|United States|Franklin Templeton;Templeton Asset
+AllianceBernstein|United States|AllianceBernstein
+FWD Group|Hong Kong|FWD Singapore;FWD Insurance
+Beiersdorf|Germany|Beiersdorf
+Shiseido|Japan|Shiseido
+Kao|Japan|Kao Singapore;Kao Corporation
+Puma|Germany|Puma Sports
+Lululemon|Canada|Lululemon
+Coty|United States|Coty
+Pernod Ricard|France|Pernod Ricard
+Carlsberg|Denmark|Carlsberg
+Asahi Group|Japan|Asahi Group;Asahi Breweries;Asahi Beverages
+Kirin Holdings|Japan|Kirin Holdings;Kirin Brewery
+Suntory|Japan|Suntory
+Red Bull|Austria|Red Bull
+Ferrero|Luxembourg|Ferrero
+FrieslandCampina|Netherlands|FrieslandCampina
+Fonterra|New Zealand|Fonterra
+Kellanova|United States|Kellanova;Kellogg
+Olam Group|Singapore|Olam
+Wilmar International|Singapore|Wilmar
+Louis Dreyfus Company|Netherlands|Louis Dreyfus
+Trafigura|Singapore|Trafigura
+Vitol|Switzerland|Vitol
+Yokogawa Electric|Japan|Yokogawa
+Omron|Japan|Omron
+Hilti|Liechtenstein|Hilti
+Endress+Hauser|Switzerland|Endress Hauser
+Tetra Pak|Switzerland|Tetra Pak
+Alfa Laval|Sweden|Alfa Laval
+SKF|Sweden|SKF
+Siemens Healthineers|Germany|Siemens Healthineers;Siemens Healthcare
+Baxter|United States|Baxter Healthcare
+Zimmer Biomet|United States|Zimmer Biomet;Zimmer
+Olympus|Japan|Olympus
+Terumo|Japan|Terumo
+Sysmex|Japan|Sysmex
+Bio-Rad|United States|Bio-Rad
+CMA CGM|France|CMA CGM;CEVA Logistics
+MSC|Switzerland|Mediterranean Shipping
+Ocean Network Express|Singapore|Ocean Network Express
+Evergreen Marine|Taiwan|Evergreen Marine
+Singapore Airlines|Singapore|Singapore Airlines;Scoot
+CapitaLand|Singapore|CapitaLand
+Keppel|Singapore|Keppel
+Sembcorp|Singapore|Sembcorp
+City Developments|Singapore|City Developments;Millennium Hotels
+Frasers Property|Singapore|Frasers Property;Frasers Hospitality
+SATS|Singapore|SATS;Worldwide Flight Services
+ComfortDelGro|Singapore|ComfortDelGro
+Singapore Exchange|Singapore|Singapore Exchange;SGX
+Mapletree|Singapore|Mapletree
+GLP|Singapore|GLP;Global Logistic Properties
+Great Eastern|Singapore|Great Eastern Life;Great Eastern General
+PSA International|Singapore|PSA International;PSA Corporation
+Jardine Cycle & Carriage|Singapore|Jardine Cycle;Cycle & Carriage
+Pacific International Lines|Singapore|Pacific International Lines
+Carousell|Singapore|Carousell
+PropertyGuru|Singapore|PropertyGuru

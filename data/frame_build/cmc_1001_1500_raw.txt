@@ -1,0 +1,482 @@
+# companiesmarketcap.com, pages 11-15 (ranks ~1001-1500 by market cap), fetched 2026-09-28.
+# Format: name|country. Duplicates across page boundaries are removed by build_frame.py.
+PPL|USA
+QBE Insurance|Australia
+Eversource Energy|USA
+Xylem|USA
+Hyundai Mobis|South Korea
+Industrivarden|Sweden
+Formula One Group|USA
+VAT Group|Switzerland
+Lindt & Sprungli|Switzerland
+NN Group|Netherlands
+AST SpaceMobile|USA
+GF Securities|China
+Aluminum Corporation of China (Chalco)|China
+Banco do Brasil|Brazil
+Guardant Health|USA
+PPG Industries|USA
+Alfa Laval|Sweden
+Sany Heavy Industry|China
+Darden Restaurants|USA
+ULTA Beauty|USA
+Veralto|USA
+Rubrik|USA
+Texas Pacific Land Corporation|USA
+Synchrony Financial|USA
+Abu Dhabi Islamic Bank|UAE
+E.SUN Bank|Taiwan
+First Citizens BancShares|USA
+S.F. Express|China
+Regions Financial|USA
+Lasertec|Japan
+MFHC|Taiwan
+Aker BP|Norway
+Ems-Chemie|Switzerland
+Samsara|USA
+Coca-Cola FEMSA|Mexico
+AerCap|Ireland
+Public Bank Bhd|Malaysia
+Roku|USA
+ZTE|China
+Aeon|Japan
+Central Japan Railway|Japan
+China Securities (CSC Financial)|China
+Nippon Steel|Japan
+Entegris|USA
+Hindalco Industries|India
+MTU Aero Engines|Germany
+SGS|Switzerland
+Zhejiang Sanhua Intelligent Controls|China
+Church & Dwight|USA
+China Merchants Securities|China
+EDP Group|Portugal
+Global Payments|USA
+China Minsheng Bank|China
+Grasim Industries|India
+PulteGroup|USA
+Bayan Resources|Indonesia
+Bandai Namco|Japan
+LS ELECTRIC|South Korea
+Constellation Oil Services Holding|Luxembourg
+Tapestry|USA
+China International Capital Corporation|China
+ASUS|Taiwan
+Unipol Assicurazioni|Italy
+Grupo Cibest (Bancolombia)|Colombia
+T. Rowe Price|USA
+Technoprobe|Italy
+Adani Green Energy|India
+LY Corporation|Japan
+InterContinental Hotels Group|UK
+Innovent Biologics|China
+Rivian|USA
+Casey's General Stores|USA
+Next plc|UK
+Northern Star|Australia
+Arxis|USA
+Verisk Analytics|USA
+Tradeweb|USA
+Bank of Nanjing|China
+International Flavors & Fragrances|USA
+Uniper|Germany
+Coles Group|Australia
+China Unicom|Hong Kong
+MACOM Technology Solutions|USA
+Telefonica|Spain
+SoFi|USA
+MTN Group|South Africa
+KeyCorp (KeyBank)|USA
+Hydro One|Canada
+Bank of Ireland Group|Ireland
+Snam|Italy
+J. B. Hunt|USA
+Markel Group|USA
+Loews Corporation|USA
+Naver|South Korea
+Geely|China
+Genmab|Denmark
+Dollar Tree|USA
+Royal Gold|USA
+Geberit|Switzerland
+Ralph Lauren|USA
+Riyad Bank|Saudi Arabia
+Multiply Group|UAE
+Bank Mandiri|Indonesia
+Legal & General|UK
+Banco de Chile|Chile
+Packaging Corporation of America|USA
+Bending Spoons|Italy
+Samsung Fire & Marine Insurance|South Korea
+Coca-Cola HBC|Switzerland
+NRG Energy|USA
+Eicher Motors|India
+CNH Industrial|UK
+Sinopac Financial Holdings|Taiwan
+Lundin Mining|Canada
+Dr. Sulaiman Al Habib Medical Services Group|Saudi Arabia
+CK Infrastructure|Hong Kong
+Terna|Italy
+CIMB Group|Malaysia
+Shenzhen Inovance|China
+Bunge Global|USA
+Amundi|France
+Tenet Healthcare|USA
+Amrize|Switzerland
+Southwest Airlines|USA
+KGI Financial Holding|Taiwan
+Alpha Dhabi|UAE
+TD Synnex|USA
+Expand Energy|USA
+Nidec|Japan
+TVS Motor|India
+Lite-On Technology|Taiwan
+CK Asset Holdings|Hong Kong
+Viatris|USA
+Galp Energia|Portugal
+YPF|Argentina
+Fuyao Glass Industry Group|China
+United Therapeutics|USA
+Steris|Ireland
+Brown & Brown|USA
+XPO Logistics|USA
+Edison International|USA
+Dow|USA
+Kao|Japan
+Industrias Penoles|Mexico
+JX Advanced Metals|Japan
+Banco Sabadell|Spain
+US Foods|USA
+Banco Comercial Portugues (Millennium bcp)|Portugal
+Bank of Shanghai|China
+Mizrahi-Tefahot|Israel
+Hua Nan Financial Holdings|Taiwan
+Traton|Germany
+Indian Oil|India
+Shandong Gold Mining|China
+China Northern Rare Earth|China
+InterGlobe Aviation (IndiGo)|India
+Curtiss-Wright|USA
+Kubota|Japan
+Pan American Silver|Canada
+SiTime|USA
+Kingspan Group|Ireland
+Hyosung Heavy Industries|South Korea
+Torrent Pharmaceuticals|India
+Lennar|USA
+Knorr-Bremse|Germany
+Advantech|Taiwan
+China Tower|China
+Reliance Inc|USA
+Capgemini|France
+Coeur Mining|USA
+Evolution Mining|Australia
+Carpenter Technology|USA
+Amcor|Switzerland
+Banca Mediolanum|Italy
+Alinma Bank|Saudi Arabia
+Wartsila|Finland
+Beiersdorf|Germany
+BCE Inc.|Canada
+KEPCO|Japan
+Santos|Australia
+Rongsheng Petrochemical|China
+Woodward|USA
+Borouge|UAE
+CMS Energy|USA
+Constellation Brands|USA
+China Galaxy Securities|China
+Eurobank Ergasias|Greece
+Bank Pekao|Poland
+Arca Continental|Mexico
+Sociedad Quimica y Minera (SQM)|Chile
+First Solar|USA
+Snap-on|USA
+PT Amman Mineral Internasional|Indonesia
+Doosan|South Korea
+HF Sinclair|USA
+Best Buy|USA
+Baosteel|China
+Broadridge Financial Solutions|USA
+Woori Financial Group|South Korea
+SHEIN Global Holdings|China
+China National Uranium|China
+NiSource|USA
+Nippon Yusen (NYK Line)|Japan
+CRRC|China
+IHI Corporation|Japan
+Western Midstream|USA
+Sumitomo Realty & Development|Japan
+HD Hyundai Electric|South Korea
+Bouygues|France
+LyondellBasell|USA
+Singapore Exchange|Singapore
+Straumann|Switzerland
+Essex Property Trust|USA
+Partners Group|Switzerland
+ASICS Corporation|Japan
+Solar Industries India|India
+QNB Finansbank|Turkey
+Fair Isaac (FICO)|USA
+Bank of Hangzhou|China
+Shanghai International Port Group|China
+Krung Thai Bank|Thailand
+International Paper|USA
+Telefonica Brasil|Brazil
+ITT|USA
+SK Innovation|South Korea
+Wistron Corporation|Taiwan
+SS&C Technologies|USA
+IonQ|USA
+Nutanix|USA
+Kaspi.kz|Kazakhstan
+Tenaga Nasional|Malaysia
+Chery Automobile|China
+Telenor|Norway
+SAIC Motor|China
+Konami Holdings|Japan
+Fidelity National Information Services (FIS)|USA
+Unity Software|USA
+Hwatsing Technology|China
+The Saudi British Bank|Saudi Arabia
+Hongkong Land|Hong Kong
+SBI Life Insurance|India
+Samvardhana Motherson|India
+Sabesp|Brazil
+AVIC Shenyang Aircraft|China
+Nordson|USA
+Lattice Semiconductor|USA
+Euronext|Netherlands
+Nomura Research Institute|Japan
+Telia Company|Sweden
+Cellnex Telecom|Spain
+Resonac Holdings Corporation|Japan
+Evergy|USA
+Xi'an Eswin Material Technology|China
+General Mills|USA
+Wilmar International|Singapore
+Hanwha Ocean|South Korea
+FTAI Aviation|USA
+KE Holdings|China
+China Steel|Taiwan
+Hyundai Motor India|India
+Daiwa House|Japan
+IHH Healthcare|Malaysia
+Mashreqbank|UAE
+Kasikornbank|Thailand
+Tyson Foods|USA
+First Financial Holding|Taiwan
+WESCO International|USA
+Permian Resources|USA
+Grupo Carso|Mexico
+Vodacom|South Africa
+Genuine Parts Company|USA
+Swire Properties|Hong Kong
+National Bank of Greece|Greece
+DuPont de Nemours|USA
+ageas|Belgium
+Air China|China
+Great Wall Motors|China
+SDIC Power Holdings|China
+Galaxy Entertainment|Hong Kong
+PTT Exploration and Production|Thailand
+Toast|USA
+Julius Baer|Switzerland
+DLF|India
+Essity|Sweden
+MKS Instruments|USA
+SBA Communications|USA
+Zebra Technologies|USA
+Hidroelectrica|Romania
+Telecom Italia|Italy
+Onto Innovation|USA
+Aldar Properties|UAE
+KGHM Polska Miedz|Poland
+CDW Corporation|USA
+Wolters Kluwer|Netherlands
+Rogers Communications|Canada
+Plains All American Pipeline|USA
+Saudi Electricity|Saudi Arabia
+Medpace|USA
+Bank of Beijing|China
+Brambles|Australia
+HD Korea Shipbuilding & Offshore Engineering|South Korea
+China Overseas Land & Investment|Hong Kong
+East West Bancorp|USA
+Nippon Paint|Japan
+Sonova|Switzerland
+WSP Global|Canada
+Norsk Hydro|Norway
+B3|Brazil
+CSG N.V. (Czechoslovak Group)|Czech Republic
+Zimmer Biomet|USA
+C. H. Robinson|USA
+Pernod Ricard|France
+TPG Inc.|USA
+News Corp|USA
+MasTec|USA
+FedEx Freight|USA
+Associated British Foods|UK
+Falabella|Chile
+KPN|Netherlands
+Adani Energy Solutions|India
+SEGRO|UK
+Furukawa Electric|Japan
+Dynatrace|USA
+Hengli Petrochemical|China
+POSCO|South Korea
+HANMI Semiconductor|South Korea
+Bitmine Immersion Technologies|USA
+Fortive|USA
+Tourmaline Oil|Canada
+BE Semiconductor|Netherlands
+Bankinter|Spain
+IDEX|USA
+Revvity|USA
+Hong Kong and China Gas|Hong Kong
+Ovintiv|USA
+Zangge Mining|China
+SITC International|Hong Kong
+Clean Harbors|USA
+ASR Nederland|Netherlands
+Korea Zinc|South Korea
+Magna International|Canada
+Tata Motors|India
+mBank|Poland
+NVR|USA
+Evergreen Marine|Taiwan
+DigitalOcean|USA
+Franklin Resources|USA
+Computershare|Australia
+Vonovia|Germany
+PZU|Poland
+Sartorius|Germany
+SCREEN Holdings|Japan
+Alliant Energy|USA
+Singapore Airlines|Singapore
+Tatneft|Russia
+Tractor Supply|USA
+Kuaishou Technology|China
+APi Group|USA
+DiDi|China
+Semtech|USA
+VeriSilicon Microelectronics|China
+DWS Group|Germany
+Sumitomo Metal Mining|Japan
+Industries Qatar|Qatar
+Wipro|India
+Tupras|Turkey
+Polyus|Russia
+Vodafone Idea|India
+Daiwa Securities Group|Japan
+Henderson Land Development|Hong Kong
+ING Bank Slaski|Poland
+Yangzijiang Shipbuilding|China
+Secom|Japan
+Power Assets|Hong Kong
+Pidilite|India
+Reinsurance Group of America|USA
+Burlington Stores|USA
+Zhongjin Gold|China
+Jacobs Engineering|USA
+RBC Bearings|USA
+China Tourism Group Duty Free|China
+TCL Technology|China
+Whitecap Resources|Canada
+Banco Santander-Chile|Chile
+Shionogi|Japan
+Huaneng Power International|China
+Keppel|Singapore
+EVE Energy|China
+SCB (Siam Commercial Bank)|Thailand
+Continental|Germany
+Invitation Homes|USA
+EDP Renovaveis|Spain
+Futu Holdings|Hong Kong
+Saudi Arabian Fertilizer Company|Saudi Arabia
+Sterling Infrastructure|USA
+Lundin Gold|Canada
+Jio Financial Services|India
+Rede D'Or Sao Luiz|Brazil
+Zhejiang Century Huatong|China
+South32|Australia
+ABB India|India
+Host Hotels & Resorts|USA
+Leidos|USA
+Corebridge Financial|USA
+Millicom|Luxembourg
+Annaly Capital Management|USA
+Mitsui O.S.K. Lines|Japan
+Nippon Sanso|Japan
+Kerry Group|Ireland
+Luzhou Laojiao|China
+Jazz Pharmaceuticals|Ireland
+Nexon|Japan
+Huagong Tech|China
+China Three Gorges Renewables|China
+RB Global|Canada
+Public Power Corporation|Greece
+CVC Capital Partners|Jersey
+LATAM Airlines|Chile
+Varun Beverages|India
+Swedish Orphan Biovitrum (Sobi)|Sweden
+Tempus AI|USA
+Inspur|China
+GFL Environmental|Canada
+The Phoenix Holdings|Israel
+FinecoBank|Italy
+Solventum|USA
+Bharat Heavy Electricals|India
+UPM-Kymmene|Finland
+Mapfre|Spain
+Shanghai Electric Group|China
+Japan Exchange Group|Japan
+Azrieli Group|Israel
+James Hardie Industries|Ireland
+Ball Corporation|USA
+Unibail-Rodamco-Westfield|France
+Press Metal Aluminium|Malaysia
+Eurofins Scientific|Luxembourg
+Evolution Gaming|Sweden
+T&D Holdings|Japan
+W. P. Carey|USA
+Kimco Realty|USA
+PharmaEssentia|Taiwan
+Guosen Securities|China
+Asahi Group|Japan
+PTC|USA
+APA Corporation|USA
+Fisher & Paykel Healthcare|New Zealand
+Fabrinet|Cayman Islands
+Hyatt Hotels|USA
+Nitto Denko|Japan
+Boliden|Sweden
+Meritz Financial Group|South Korea
+Trent Limited|India
+BOSCH India|India
+Ascendis Pharma|Denmark
+China Satellite Communications|China
+Cholamandalam Investment and Finance|India
+Jones Lang LaSalle|USA
+Lincoln Electric|USA
+Lundbergforetagen|Sweden
+Lingyi iTECH|China
+Datang International Power Generation|China
+Hua Xia Bank|China
+Banco de Credito e Inversiones|Chile
+Emirates Integrated Telecommunications|UAE
+Sichuan Biokin Pharmaceutical|China
+Elia Group|Belgium
+Viper Energy|USA
+Equitable Holdings|USA
+Charter Communications|USA
+ZTO Express|China
+Emera|Canada
+Lamar Advertising|USA
+Blue Owl Capital|USA
+Sieyuan Electric|China
+Omega Healthcare Investors|USA
+Talen Energy|USA
+Unum|USA
+LG Chem|South Korea
+CG Power and Industrial Solutions|India
